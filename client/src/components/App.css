@@ -1,0 +1,11 @@
+*, *::before, *::after{
+    margin:0;
+}
+
+body{
+
+    background:url("../assets//bg.png");
+    overflow-x: hidden;
+ 
+    
+}

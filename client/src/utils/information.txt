@@ -1,0 +1,5 @@
+Junior Web Developer with over 1 year of front end experience in IT domain and implementing web applications, specializint in SPA development using React ecosystem.I've recently finished a front-end course which lasted 5 months at WANTSOME, "the friendly IT Acadamy".This course helped me to understand important base concepts of Js language/Node, HTML & CSS, React which can be used to build a modern web application. I am looking for a position as Front-End Developer where i can enhance my skills,challenge my abilities and work inside a team of professionals.  
+
+Collaborated with web designers and back-end developers to build the company's official website.
+Responsible for developing different layouts and reusable components, creating responsive design for different devices using diffent libraries like bootstrap or material UI, migrating application to latest version of react using react-hooks.
+
